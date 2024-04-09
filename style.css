@@ -1,0 +1,22 @@
+body, h1, h2, p {
+	margin: 0;
+	padding: 0;
+}
+
+section {
+	margin: auto;
+	width: 500px;
+	color: black;
+}
+
+p {
+	font-family: "Imbue", serif;
+  	font-optical-sizing: auto;
+  	font-weight: 700;
+  	font-style: normal;
+}
+
+.text{
+	
+}
+
